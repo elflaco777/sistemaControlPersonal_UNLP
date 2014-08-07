@@ -36,3 +36,11 @@ body{
     color:red;
 	background-color:blue;
 }
+
+#menu li a:hover{
+    color:gray;
+    background-color:blue;
+    
+
+
+}
