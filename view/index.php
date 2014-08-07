@@ -1,10 +1,10 @@
 <html>
+<head>
+<link rel="stylesheet" type="text/css" href='view/css/estilo.css'/>
+
+</head>
+<p> </p>
 <body>
-<style>
-
- 
-
-</style>
 
 <?php
 
