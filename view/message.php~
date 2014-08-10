@@ -1,0 +1,18 @@
+<style>
+#table{
+  background-color:rgba(123,0,0,0.2);
+  text-align:center;
+  margin-left:100px;
+  margin-right:100px;
+  margin-top:10px;
+  padding:100px;
+
+}
+</style>
+<br>
+<div id="table">
+<p><?php  echo("TABLAS DE CONSULTA DE DATOS")?></p>
+
+</div>
+
+
