@@ -3,6 +3,20 @@ body{
   
 }
 
+#table{
+  background-color:rgba(123,123,0,0.2);
+  text-align:center;
+  margin-left:100px;
+  margin-right:100px;
+  padding:100px;
+
+}
+
+h2{
+   text-align:center;
+
+}
+
 #info{
    text-align:center;
 

@@ -1,4 +1,5 @@
 <style>
+//**
 #table{
   background-color:rgba(123,0,0,0.2);
   text-align:center;
@@ -7,8 +8,10 @@
   margin-top:10px;
   padding:100px;
 
-}
+} **//
+
 </style>
+<br>
 <br>
 <div id="table">
 <p><?php  echo("TABLAS DE CONSULTA DE DATOS")?></p>
