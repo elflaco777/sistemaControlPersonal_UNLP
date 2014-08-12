@@ -1,5 +1,5 @@
 <div id="info" >
-<p> Centro de administracion de datos del personal </p>
+<p> Centro de administracion de datos del personal 1 </p>
 <ul id="menu">
 
 
