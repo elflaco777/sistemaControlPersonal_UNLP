@@ -18,7 +18,8 @@ static function conectar(){
 		die('Connect error ...(' . mysqli_connect_errno() . ')' . mysli_connect_errno());
 
 	}
-	echo "conecto la base de datos"; 	
+        echo "conecto la base de datos";
+ 	
         return $mysqli;
 
 }
